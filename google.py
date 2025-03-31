@@ -10,10 +10,7 @@ driver.get("https://rahulshettyacademy.com/angularpractice/")
 
 
 driver.find_element(By.XPATH, "//input[@type='submit']").click()
-driver.find_element(By.XPATH, "//input[@type='submit']").click()
-driver.find_element(By.XPATH, "//input[@type='submit']").click()
-driver.find_element(By.XPATH, "//input[@type='submit']").click()
-driver.find_element(By.XPATH, "//input[@type='submit']").click()
+
 
 
 
